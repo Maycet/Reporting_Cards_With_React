@@ -1,0 +1,25 @@
+.backdrop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.6);
+	z-index: 2;
+	}
+	
+	.modal {
+		align-items: center;
+		justify-content: center;
+		align-content: center;
+		border: none;
+		width: 80vw;
+		height: 80vh;
+		padding: 0;
+		z-index: 2;
+		/* overflow: auto; */
+		/* border-radius: 1em; */
+	}

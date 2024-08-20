@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "window-stack",
+		"description" : "Window stack",
+		"image" : "bi bi-window-stack",
+		"url" : "https://playground.powerbi.com/sampleReportEmbed"
+	},
+	{
+		"name" : "tags",
+		"description" : "Tagging",
+		"image" : "bi bi-tags",
+		"url" : "https://playground.powerbi.com/sampleReportEmbed"
+	},
+	{
+		"name" : "graph-up-arrow",
+		"description" : "Graph up arrow",
+		"image" : "bi bi-graph-up-arrow",
+		"url" : "https://app.powerbi.com/view?r="
+	}
+]
